@@ -16,8 +16,8 @@ Welcome to my special GitHub repository! This space showcases my projects, contr
 
 ## 🗂️ Top Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=vipul-69-ax&repo=llm-crawl&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=vipul-69-ax&repo=FitFlow&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=vipul-69-ax&repo=llm-crawl&theme=radical)](https://github.com/vipul-69-ax/llm-crawl)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=vipul-69-ax&repo=FitFlow&theme=radical)](https://github.com/vipul-69-ax/FitFlow)
 
 ## 🛠️ Languages and Tools
 
@@ -25,7 +25,7 @@ Welcome to my special GitHub repository! This space showcases my projects, contr
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vipul-69-ax&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vipul-69-ax&theme=dracula)
 
 ## 🌐 Connect with Me
 
@@ -60,7 +60,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ---
 
 <p align="center">
-  <img src="https://github.com/vipul-69-ax/vipul-69-ax/blob/main/assets/github-contribution-grid-snake.svg" alt="snake"></center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vipul-69-ax/vipul-69-ax/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vipul-69-ax/vipul-69-ax/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vipul-69-ax/vipul-69-ax/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
-<!-- This snake animation can be generated using https://github.com/Platane/snk -->
