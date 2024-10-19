@@ -54,9 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vipul-69-ax/vipul-69-ax/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vipul-69-ax/vipul-69-ax/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vipul-69-ax/vipul-69-ax/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vipul69ax&layout=compact&theme=radical" alt="Coding Activity">
 </p>
