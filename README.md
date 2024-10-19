@@ -38,12 +38,6 @@ Welcome to my special GitHub repository! This space showcases my projects, contr
 - [ ] Learn a new technology
 - [ ] Launch a personal coding blog
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated with your latest blog posts -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🎉 Thank You for Visiting!
 
 ![Visitor Count](https://profile-counter.glitch.me/vipul-69-ax/count.svg)
