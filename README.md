@@ -1,6 +1,6 @@
 # 🌟 Vipul Sharma
 
-Welcome to my special GitHub repository! This space showcases my projects, contributions, and coding journey.
+This space showcases my projects, contributions, and coding journey.
 
 ## 📊 GitHub Stats
 
